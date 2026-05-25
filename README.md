@@ -2,6 +2,7 @@
 FULLSTACK DEVELOPER || MERN SPECIALIST || CODE ENTHUSIASTIC
 
 💡 What I Bring:
+
 ⚡ Strong foundation in Frontend & Backend Development
 🧠 Exploring AI/ML integration in Web Applications
 🌐 Experience with MERN Stack & Cloud Hosting
